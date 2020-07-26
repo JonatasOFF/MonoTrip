@@ -1,5 +1,5 @@
 # MonotripUltimate
 
-Developed with Unreal Engine 4
+MonoTrip is a game inspired in Business Tour using Blueprints in Unreal Engine 4.
 
-MonoTrip is a game inspired in Business Tour
+
